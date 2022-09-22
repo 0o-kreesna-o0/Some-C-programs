@@ -7,9 +7,7 @@ int search(int arr[], int key, int n)
         if(key==arr[i])
         {
             return 1;
-        }
-            return -1;
-        
+        }   
     }
 }
 int main()
